@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "question_type": "multiple_choice",
+            "body": "<div class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"false\" data-placeholder=\"Insert text here ...\"><p>You have <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/cbcfab5688c74602a24d2b24fbfc8b0a-1428-1.gif\" alt=\"N\"> data points <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/7cb5375a55714ecb9999d2e0d66e2a14-1428-2.gif\" alt=\"p_1, p_2, ..., p_N\">, which each consist of <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/257afc0d7fab4218ac2542fec8f81d3e-1428-3.gif\" alt=\"m\"> covariates <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/fa63bfa179a6468d9695904917a2d118-1428-4.gif\" alt=\"x_1, x_2, ..., x_m\"> and one response variable <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/94bebabe210c4dc19cec5753b5201c77-1428-5.gif\" alt=\"y\">. Using these <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/0f3b4ff038c24317a7d8c656f2ae738a-1428-6.gif\" alt=\"N\"> points, you estimate a linear regression model of <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/9a2c90b5e3dd463c8cce16299d1e1165-1428-7.gif\" alt=\"y\"> in terms of <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/667e6aa170604ce6b9eb6d94902326a9-1428-8.gif\" alt=\"x_1, x_2, …, x_m\">, with respective coefficients <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/b63a2b503c2c492c82fe4f6f807c7b42-1428-9.gif\" alt=\"b_1, b_2, ..., b_m\">. If you were to double the number of data points to <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/c0073687a57c45a792745473dd5b07db-1428-10.gif\" alt=\"2N\"> via duplicating all of the <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/4c13bb331d604a5bb4f585bd14b5b6a9-1428-11.gif\" alt=\"p_j, 1 <= j <= N\">, which of the following MOST accurately describes your new linear model as compared to your original one?<\/p><\/div>",
+            "answers": {
+                "A": "<div class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"false\" data-placeholder=\"Insert text here ...\"><p>It would have the same <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/665b88fbed814d53a2be85b2fb73a982-5212-1.gif\" alt=\"R^2\"> - value and the same 95% confidence intervals on the <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/9f29aa02feda48c7ba7308414228fe16-5212-2.gif\" alt=\"b_i\"><\/p><\/div>",
+                "B": "<div class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"false\" data-placeholder=\"Insert text here ...\"><p>It would have a higher <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/cc1d3601374e4caea7c1edab6861ca7f-5213-1.gif\" alt=\"R^2\"> - value and the same 95% confidence intervals on the <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/250c3607573949cf801676acd529aea5-5213-2.gif\" alt=\"b_i\"><\/p><\/div>",
+                "C": "<div class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"false\" data-placeholder=\"Insert text here ...\"><p>It would have the same <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/506ca3aefe90474b936011abbb64c9b7-5214-1.gif\" alt=\"R^2\"> - value and narrower 95% confidence intervals on the <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/d68c31205f7246aeb8d2a1051fbde47b-5214-2.gif\" alt=\"b_i\"><\/p><\/div>",
+                "D": "<div class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"false\" data-placeholder=\"Insert text here ...\"><p>It would have the same <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/a3f75dd9eca14cb29e17953a96eb2ee1-5215-1.gif\" alt=\"R^2\"> - value and wider 95% confidence intervals on the <img src=\"https:\/\/s3.amazonaws.com\/c1-latex\/8506299f1f734e3cb30ebac7d7fede81-5215-2.gif\" alt=\"b_i\"><\/p><\/div>",
+                "E": "<div class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"false\" data-placeholder=\"Insert text here ...\"><p>None of the above<\/p><\/div>" 
+            },
+            "correct_answer": "A",
+            "assessment_id": "272"
+        },
+        {
+            "question_type": "<div><img src=\"img.jpg\" alt=\"here's an image\"></div>",
+            "body": "What is 1 + 1? b",
+            "answers": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5",
+                "E": "6"
+            },
+            "correct_answer": 0,
+            "assessment_id": "272"
+        },
+        {
+            "question_type": "multiple_choice",
+            "body": "What is 1 + 1? c",
+            "answers": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5",
+                "E": "6"
+            },
+            "correct_answer": 0,
+            "assessment_id": "272"
+        },
+        {
+            "question_type": "multiple_choice",
+            "body": "What is 1 + 1? d",
+            "answers": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5",
+                "E": "6"
+            },
+            "correct_answer": 0,
+            "assessment_id": "272"
+        },
+        {
+            "question_type": "multiple_choice",
+            "body": "What is 1 + 1? e",
+            "answers": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5",
+                "E": "6"
+            },
+            "correct_answer": 0,
+            "assessment_id": "272"
+        }
+    ]
+}
